@@ -21,4 +21,7 @@ Watch anime • Customize my Arch installation • Code • Listen to music • 
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
 
+-----
+Credits: [innng](https://github.com/innng)
 
+Last Edited on: 30/08/2020

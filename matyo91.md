@@ -31,3 +31,8 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
 </p>
+
+-----
+Credits: [matyo91](https://github.com/matyo91)
+
+Last Edited on: 30/08/2020

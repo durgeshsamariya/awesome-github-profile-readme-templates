@@ -16,3 +16,8 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 You can also ask questions on my [Public AMA](https://github.com/maximousblk/maximousblk/issues)
 
 PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+
+-----
+Credits: [maximousblk](https://github.com/maximousblk)
+
+Last Edited on: 30/08/2020

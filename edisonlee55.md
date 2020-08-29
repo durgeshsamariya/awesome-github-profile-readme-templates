@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+Credits: [edisonlee55](https://github.com/edisonlee55)
+
+Last Edited on: 30/08/2020

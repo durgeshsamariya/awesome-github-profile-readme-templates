@@ -34,3 +34,8 @@ export class Social {
 
 }
 ```
+
+-----
+Credits: [martonlederer](https://github.com/martonlederer)
+
+Last Edited on: 30/08/2020

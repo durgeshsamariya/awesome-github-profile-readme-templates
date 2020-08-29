@@ -13,3 +13,8 @@ I was born in 🇻🇪, I was raised in 🇪🇸, I live in 🇩🇰, and I work
 </p>
 
 💪🏼 Support me through Patreon: https://www.patreon.com/aicoding 💪🏼
+
+-----
+Credits: [coding-ai](https://github.com/coding-ai)
+
+Last Edited on: 30/08/2020
