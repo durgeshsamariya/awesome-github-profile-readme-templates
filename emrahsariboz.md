@@ -3,3 +3,8 @@ A multipotentialite research assistant who is currently working on Fog Computing
 
 
 ![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
+
+-----
+Credits: [emrahsariboz](https://github.com/emrahsariboz)
+
+Last Edited on: 30/08/2020

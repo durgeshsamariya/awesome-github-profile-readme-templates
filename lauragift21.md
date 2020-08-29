@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+Credits: [lauragift21](https://github.com/lauragift21)
+
+Last Edited on: 30/08/2020

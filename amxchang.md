@@ -11,3 +11,8 @@ For my programming projects, I usually only upload to Github once I make signifi
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+Credits: [amxchang](https://github.com/amxchang)
+
+Last Edited on: 30/08/2020

@@ -35,3 +35,8 @@ class About extends Me
     }
 }
 ```
+
+-----
+Credits: [ashbakernz](https://github.com/ashbakernz)
+
+Last Edited on: 30/08/2020

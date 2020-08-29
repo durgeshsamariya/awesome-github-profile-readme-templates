@@ -127,3 +127,8 @@ PHP                      3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+-----
+Credits: [anmol098](https://github.com/anmol098)
+
+Last Edited on: 30/08/2020

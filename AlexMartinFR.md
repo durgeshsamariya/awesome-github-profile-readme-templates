@@ -24,5 +24,6 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 - 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
 
 -----
-Credits: [AlexMartinFR](https://github.com/AlexMartinFR))
+Credits: [AlexMartinFR](https://github.com/AlexMartinFR)
+
 Last Edited on: 30/08/2020
