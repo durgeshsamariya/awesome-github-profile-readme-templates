@@ -60,3 +60,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=SpeechEmotionRecognization" />
 </a>
 
+-----
+Credits: [PrudhviGNV](https://github.com/PrudhviGNV)
+
+Last Edited on: 30/08/2020

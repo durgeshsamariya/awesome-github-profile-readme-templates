@@ -101,3 +101,8 @@ Python                   1 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+-----
+Credits: [pr2tik1](https://github.com/pr2tik1)
+
+Last Edited on: 30/08/2020

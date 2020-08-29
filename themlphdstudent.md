@@ -79,3 +79,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+Credits: [themlphdstudent](https://github.com/themlphdstudent)
+
+Last Edited on: 30/08/2020
