@@ -136,3 +136,8 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
+
+-----
+Credits: [MrStanDu33](https://github.com/MrStanDu33)
+
+Last Edited on: 30/08/2020

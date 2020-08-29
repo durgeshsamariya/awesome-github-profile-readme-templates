@@ -64,3 +64,8 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
+
+-----
+Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
+
+Last Edited on: 30/08/2020

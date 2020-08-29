@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 ```css
 #monkindey { 
   position: Hángzhōu; 
@@ -19,3 +8,7 @@
 }
 ```
 
+-----
+Credits: [monkindey](https://github.com/monkindey)
+
+Last Edited on: 30/08/2020

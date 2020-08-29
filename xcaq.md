@@ -64,3 +64,7 @@
 <hr>
 <h4 align="center">Other – <a href='http://gothboy.me' target="_blank">gothboy.me</a><h4>
     
+-----
+Credits: [xcaq](https://github.com/xcaq)
+
+Last Edited on: 30/08/2020

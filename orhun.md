@@ -6,3 +6,8 @@
 [![patreon](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://patreon.com/orhunp)
 
 Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
+
+-----
+Credits: [orhun](https://github.com/orhun)
+
+Last Edited on: 30/08/2020

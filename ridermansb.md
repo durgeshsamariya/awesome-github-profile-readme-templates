@@ -29,3 +29,8 @@ npx ridermansb
 
 
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ridermansb&show_icons=true&hide_border=true)
+
+-----
+Credits: [ridermansb](https://github.com/ridermansb)
+
+Last Edited on: 30/08/2020

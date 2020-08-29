@@ -22,3 +22,7 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 - 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
 - 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
+
+-----
+Credits: [AlexMartinFR](https://github.com/AlexMartinFR))
+Last Edited on: 30/08/2020
