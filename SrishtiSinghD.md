@@ -130,6 +130,6 @@ Here are some ideas to get you started:
 -->
 
 ----
-Credit: [bhaveshlohana](https://github.com/bhaveshlohana)
+Credit: [SrishtiSinghD](https://github.com/SrishtiSinghD)
 
 Last Edited on: 23/09/2020
