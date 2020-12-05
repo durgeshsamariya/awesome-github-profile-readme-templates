@@ -29,6 +29,6 @@ Skills: REACT / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/Mogakamo)  
 
 
---------------------------------------------------------------------------------------------------------------
+------
 Credit: [Mogakamo](https://www.github.com/Mogakamo)
 Last Edited on: 05/12/2020
