@@ -35,5 +35,6 @@ My skill set combines a formal education in statistics and quantitative methods 
 </a>
 
 ------
-Credit: [paulj1989](httpsL//github.com/paulj1989)
+Credit: [Paul Johnson](https://github.com/Paulj1989)
+
 Last Edited on: 21/12/2020
