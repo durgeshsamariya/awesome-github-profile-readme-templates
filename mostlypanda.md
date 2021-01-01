@@ -47,3 +47,8 @@
 <div style="flex: 33.33%; padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" /></div>
 </div>
+
+-----
+Credits: [mostlypanda](https://github.com/mostlypanda)
+
+Last Edited on: 01/01/2021
