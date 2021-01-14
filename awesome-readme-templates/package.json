@@ -1,0 +1,1 @@
+{"name":"awesome-readme-templates","version":"1.0.0","private":true,"description":"Awesome README Templates'","keywords":["gatsby"],"scripts":{"develop":"gatsby develop","start":"gatsby develop","build":"gatsby build","serve":"gatsby serve","clean":"gatsby clean"},"dependencies":{"gatsby":"^2.26.1","react":"^16.13.1","react-dom":"^16.13.1"}}
