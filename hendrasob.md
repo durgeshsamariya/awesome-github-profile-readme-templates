@@ -39,14 +39,14 @@ My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, l
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hendrasob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
 
 -----
 Credits: [Mahendra](https://github.com/hendrasob)
 
-Last Edited on: 03/03/2021
+Last Edited on: 24/03/2021
