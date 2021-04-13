@@ -289,5 +289,7 @@ JavaScript               9 repos             ██░░░░░░░░░�
 
 
 ----
-Credits: [JayantGoel001](https://github.com/JayantGoel001/)
-Last MOdified: 12/4/2021
+
+**Credits**: [JayantGoel001](https://github.com/JayantGoel001/)
+
+**Last Edited**: 12/04/2021
