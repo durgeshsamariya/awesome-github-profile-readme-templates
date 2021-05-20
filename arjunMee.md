@@ -23,6 +23,6 @@ I am currenty working on React Project.
 
 ---
 
-[userneme](https://github.com/arjunMee)
+[arjunMee](https://github.com/arjunMee)
 
-20/05/212
+20/05/2021
