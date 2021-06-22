@@ -46,6 +46,6 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
 
 -----
-Credits: [Sanskarjaiswa2001](https://github.com/sanskarjaiswal2001)
+Credits: [Sanskarjaiswal2001](https://github.com/sanskarjaiswal2001)
 
 Last Edited on: 20/06/2021
