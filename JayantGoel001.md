@@ -300,6 +300,6 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 
 -----
-Credits: [JayantGoel001](https://github.com/JayantGoel001)
+**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
 
-Last Edited on: 24/06/2021
+**Last Edited on**: 24/06/2021
