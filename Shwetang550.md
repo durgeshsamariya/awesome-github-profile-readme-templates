@@ -1,8 +1,8 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://avatars.githubusercontent.com/u/67409054?s=60&v=4">Smokie</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
-  <a href="https://twitter.com/Shwetang550">Twitter</a>
+  <a href="https://www.linkedin.com/in/">LinkedIN</a> •
+  <a href="https://www.instagram.com/">Instagram</a> •
+  <a href="https://twitter.com/">Twitter</a>
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
@@ -12,7 +12,7 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+- 📫  How to reach me: asksmokie121@gmail.com.
 
 ***
 
@@ -20,13 +20,13 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=SmokieTheDev&theme=dark&show_icons=true" alt="SmokieStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokieTheDev&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/SmokieTheDev/github-readme-stats)*
 
 <br>
 
@@ -49,10 +49,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://avatars.githubusercontent.com/u/67409054?s=60&v=4" />
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Shwetang550)
-
-Last Edited on: 15/01/2021
