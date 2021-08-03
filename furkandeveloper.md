@@ -67,3 +67,8 @@
 ## To see the 2020 summary
 <a href="https://profile.codersrank.io/year-in-review-2020/user/724b3e96db60a7e7fc29229f0728ce93/" target="_top">Summary</a>
 
+-----
+Credits: [furkandeveloper](https://github.com/furkandeveloper)
+
+Last Edited on: 01/08/2021
+
