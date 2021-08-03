@@ -101,5 +101,5 @@
 <br/>  
 
 ------
-<a href="https://github.com/pulkit-30">pulkit-30t</a>
+<a href="https://github.com/pulkit-30">pulkit-30</a>
 03-08-2021
