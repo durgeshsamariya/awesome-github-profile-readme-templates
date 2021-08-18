@@ -124,6 +124,6 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 </table>
 
 
-### ------
-[smir45](https://github.com/smir45)
-### Last edited on: 25/06/2021
+------
+Credits: [smir45](https://github.com/smir45)
+Last edited on: 18/08/2021
