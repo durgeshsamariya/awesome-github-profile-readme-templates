@@ -25,7 +25,7 @@
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: AkuraDiary(https://github.com/AkuraDiary)
+Credit: [AkuraDiary](https://github.com/AkuraDiary)
 Last Edited on: 21/08/2021
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
