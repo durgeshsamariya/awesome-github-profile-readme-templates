@@ -25,5 +25,5 @@
 
 ------
 
-Credit: [bughunter0](https://github.com/bughunter0)
+Credit: [bughunter0](https://github.com/bughunter0) <br>
 Last Edited on: 19/08/2021
