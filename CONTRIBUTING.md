@@ -19,7 +19,7 @@ This is a curated list so the goal is not to collect all possible resources but 
 
 - Step 6: At the end of the file add following content with appropriate changes. 
     - Add line break using this command `------`
-    - Credit: `[userneme](https://github.com/username)`
+    - Credit: `[username](https://github.com/username)`
     - Last Edited on: Date when you edited this file. Date must be in DD/MM/YYYY format.
 
 - Step 7: Save the file and commit your changes with proper message. You message must contain your username. 
