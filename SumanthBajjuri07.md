@@ -1,14 +1,11 @@
 ###
 
-  
-  
-  <h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
+<h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
   
   
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
-
 
 <!--
 **SumanthBajjuri07/SumanthBajjuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -120,16 +117,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
   
   
@@ -150,29 +138,18 @@ Here are some ideas to get you started:
   
    <br>
   <br>
-  
-  
+
   
   
   <p align="center">
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>-->
   <img src="https://profile-counter.glitch.me/SumanthBajjuri07/count.svg">
 </p>
-  
-  
-  
-  
 
   
-  
   <br>
   <br>
- 
-  
-  
-  
-  
-  
+
   ## ⚡️ Let's talk more:
 
 <p align="left"> 
@@ -181,24 +158,9 @@ Here are some ideas to get you started:
    <a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
     <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
 </p>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+
+-----------------
 
 Credit: [SumanthBajjuri07](https://github.com/SumanthBajjuri07)
+  
 Last Edited on:  30/08/2021 
