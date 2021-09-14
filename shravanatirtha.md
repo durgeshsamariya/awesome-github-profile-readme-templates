@@ -51,3 +51,8 @@
 <a href="https://www.instagram.com/tirthashravana" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
+
+------
+
+Credit: [shravanatirtha](https://github.com/shravanatirtha) <br>
+Last Edited on: 14/09/2021
