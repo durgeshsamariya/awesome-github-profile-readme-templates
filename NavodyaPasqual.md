@@ -32,3 +32,8 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+
+------
+Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
+
+Last Edited on: 21/09/2021
