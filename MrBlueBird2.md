@@ -94,5 +94,5 @@ Atom                     1 Hour             ████████████
 Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 ------
-Credit: https://github.com/MrBlueBird2
-Last Edited By MrBlueBird2 - 25/09/2021
+Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
+Last Edited on: 25/09/2021.
