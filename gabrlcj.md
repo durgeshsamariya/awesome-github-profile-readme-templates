@@ -47,6 +47,8 @@ ___
 
 ------
 
-Credit: [gabrlcj](https://github.com/gabrlcj)
+### Credit: [gabrlcj](https://github.com/gabrlcj)
+
 <br />
-Last Edited on: 23/10/2021
+
+### Last Edited on: 23/10/2021
