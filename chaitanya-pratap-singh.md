@@ -51,5 +51,5 @@
 
 
 ----
-Credit: `[Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)`
+Credit: [Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)  
 Last Edited on: 9/10/2021
