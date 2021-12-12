@@ -95,6 +95,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My Github Data** 
@@ -177,8 +178,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-#
+</details> 
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 </div>
 
------
+------
 Credits: [manumanoj0010](https://github.com/manumanoj0010)
 
 Last Edited on: 15/01/2021

@@ -22,10 +22,24 @@ This is a curated list so the goal is not to collect all possible resources but 
     - Credit: `[username](https://github.com/username)`
     - Last Edited on: Date when you edited this file. Date must be in DD/MM/YYYY format.
 
-- Step 7: Save the file and commit your changes with proper message. Your message must contain your username. 
+- Step 7: Add your name and filename in README.md like this
 
-- Step 8: Push your commit to GitHub.
+```
+[name](https://github.com/name)
+<details>
+<summary>Preview  </summary>
 
-- Step 9: Submit a Pull Request.
+[name](filename ':include')
 
-- Step 10: All Done.
+</details>
+```
+
+  Do not forget to give proper newlines before and after 4th line
+
+- Step 8: Save the file and commit your changes with proper message. Your message must contain your username. 
+
+- Step 9: Push your commit to GitHub.
+
+- Step 10: Submit a Pull Request.
+
+- Step 11: All Done.

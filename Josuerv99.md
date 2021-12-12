@@ -16,7 +16,7 @@
   <ul>
     <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
     <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com<strong></li>
+    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
   </ul>
 
 <!-- CONNECTION -->
