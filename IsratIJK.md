@@ -149,7 +149,7 @@ My Current Workstation Specification </h2>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
 :star: [Dimik OJ](https://dimikoj.com/users/6472/IsratIJK) <br>
 :star: [CodeMarshal](https://algo.codemarshal.org/users/IsratIJK) <br>
-<i>Many more are coming soon...<i> :cupid:
+<i>Many more are coming soon...</i> :cupid:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
