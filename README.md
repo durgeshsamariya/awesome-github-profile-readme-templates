@@ -18,6 +18,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## A 
 
+[abhigyantrips](https://github.com/abhigyantrips)
+
+<details>
+<summary>Preview  </summary>
+
+[abhigyantrips](AbhigyanTrips.md ':include')
+
+</details>
+
 [ABSphreak](https://github.com/ABSphreak)
 
 <details>
