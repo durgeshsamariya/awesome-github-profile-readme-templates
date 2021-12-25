@@ -18,11 +18,19 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## A 
 
+[abhigyantrips](https://github.com/abhigyantrips)
+
+<details>
+<summary>Preview  </summary>
+
+[abhigyantrips](AbhigyanTrips.md ':include')
+  
 [Adam-pw](https://github.com/Adam-pw)
 <details>
 <summary>Preview  </summary>
 
-[name](Adam-pw.md ':include')
+[Adam-pw](Adam-pw.md ':include')
+
 
 </details>
 
