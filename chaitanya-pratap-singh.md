@@ -1,13 +1,13 @@
 ![banner](https://drive.google.com/uc?export=view&id=1gB6chQiTx7_x-3lQwGzFzlhW9mDWhUg-)
 <h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Chaitanya Pratap Singh</h1>
-<h3 align = "center"><strong>A Student 👨🏻‍🎓 and a Programming Enthusiast 👩‍💻 from India </h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 <img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
-<div align = left width = 50%>
-<h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
+<div align = "left" width = 50%>
+<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> About ME </h2>
 <ul>
 <li>I love to learn to code in differnt languages</li>
 <li>I am looking forward to contribute on Open Source Projects💻</li>
-<li>Ask me about <a src ="https://www.java.com/en/" >Java</a> </li>
+<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
 <li>📭 Reach me at my mail @chaitanyapratapsingh24@gmail.com</li>
 <ul>
 </div>
@@ -48,7 +48,6 @@
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
 </a>
 <a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 ----
 Credit: [Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)  
