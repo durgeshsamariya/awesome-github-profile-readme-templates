@@ -486,6 +486,15 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
+[bugahontas](https://github.com/bugahontas)
+
+<details>
+<summary>Preview  </summary>
+
+[bugahontas](bugahontas.md ':include')
+
+</details>
+
 [bughunter0](https://github.com/bughunter0)
   
 <details>
@@ -2629,3 +2638,4 @@ All credits goes to the original authors of the GitHub profile. I don't own any 
 
 ## Reference
 Some implementations are from [coderjojo](https://github.com/coderjojo)
+
