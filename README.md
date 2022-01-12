@@ -24,6 +24,8 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [abhigyantrips](AbhigyanTrips.md ':include')
+
+</details>
   
 [Adam-pw](https://github.com/Adam-pw)
 <details>
