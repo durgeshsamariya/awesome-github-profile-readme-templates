@@ -22,45 +22,31 @@ Don't forget to hit the :star:, If you like this repo.
 
 <details>
 <summary>Preview  </summary>
-
 [abhigyantrips](AbhigyanTrips.md ':include')
-
 </details>
   
 [Adam-pw](https://github.com/Adam-pw)
 <details>
 <summary>Preview  </summary>
-
 [Adam-pw](Adam-pw.md ':include')
-
-
 </details>
 
 [ABSphreak](https://github.com/ABSphreak)
-
 <details>
 <summary>Preview  </summary>
-
 [ABSphreak](ABSphreak.md ':include')
-   
 </details>
 
 [ASovindu](https://github.com/ASovindu)
-
 <details>
 <summary>Preview  </summary>
-
 [ASovindu](ASovindu.md ':include')
-  
 </details>
 
 [AVS1508](https://github.com/AVS1508)
-  
 <details>
 <summary>Preview  </summary>
-
 [AVS1508](AVS1508.md ':include')
-  
 </details>
 
 [Aditya664](https://github.com/Aditya664)
