@@ -19,7 +19,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
   <a href="https://zouktil.com/fr/@main.c/" target="blank"><img align="center"
-      src="index.png"
+      src="https://github.com/main-c/main-c/blob/main/index.png"
       alt="adampithewan" height="30" width="40" /></a>
 
 </p>
