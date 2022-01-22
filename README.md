@@ -861,15 +861,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[TekyaygilFethi](https://github.com/TekyaygilFethi)
-
-<details>
-<summary>Preview  </summary>
-
-[TekyaygilFethi](TekyaygilFethi.md ':include')
-  
-</details>
-
 [filiptronicek](https://github.com/filiptronicek)
   
 <details>
@@ -2266,6 +2257,15 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [TanZng](TanZng.md ':include')
+  
+</details>
+
+[TekyaygilFethi](https://github.com/TekyaygilFethi)
+
+<details>
+<summary>Preview  </summary>
+
+[TekyaygilFethi](TekyaygilFethi.md ':include')
   
 </details>
 
