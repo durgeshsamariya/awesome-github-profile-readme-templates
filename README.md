@@ -2479,6 +2479,8 @@ Don't forget to hit the :star:, If you like this repo.
 
 [viralbhadeshiya](viralbhadeshiya.md ':include')
   
+</details>  
+
 <details>
 <summary>Preview  </summary>
 
