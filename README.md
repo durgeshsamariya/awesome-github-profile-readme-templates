@@ -81,7 +81,6 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [Ahmed-Hossam](7oSkaaa.md ':include')
-  
 </details>
 
 [Akash-chowrasia](https://github.com/Akash-chowrasia)
