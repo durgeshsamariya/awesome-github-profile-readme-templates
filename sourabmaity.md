@@ -96,11 +96,3 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 Credit: [Sourab Maity](https://github.com/sourabmaity)
 Last Edited on: 02/07/2022
-
-[Sourab Maity](https://github.com/sourabmaity)
-<details>
-<summary>Preview  </summary>
-
-[Sourab Maity](filename 'sourabmaity.md')
-
-</details>
