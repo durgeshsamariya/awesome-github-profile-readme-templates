@@ -13,7 +13,7 @@ Feel free to add your or some one else's GitHub profile README file.
 Don't forget to hit the :star:, If you like this repo.
 
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [0](#0) | [1](#1) | [2](#2) | [3](#3) | [4](#4) | [5](#5) | [6](#6) | [7](#7) | [8](#8) | [9](#9)
 
 
 ## A 
@@ -22,25 +22,35 @@ Don't forget to hit the :star:, If you like this repo.
 
 <details>
 <summary>Preview  </summary>
-[abhigyantrips](AbhigyanTrips.md ':include')
+
+[abhigyantrips](abhigyantrips.md ':include')
+
 </details>
   
 [Adam-pw](https://github.com/Adam-pw)
 <details>
 <summary>Preview  </summary>
+
 [Adam-pw](Adam-pw.md ':include')
+
 </details>
 
 [ABSphreak](https://github.com/ABSphreak)
+
 <details>
 <summary>Preview  </summary>
+
 [ABSphreak](ABSphreak.md ':include')
+
 </details>
 
 [ASovindu](https://github.com/ASovindu)
+
 <details>
 <summary>Preview  </summary>
+
 [ASovindu](ASovindu.md ':include')
+
 </details>
 
 [avinash-218](https://github.com/avinash-218)
@@ -54,7 +64,9 @@ Don't forget to hit the :star:, If you like this repo.
 [AVS1508](https://github.com/AVS1508)
 <details>
 <summary>Preview  </summary>
+
 [AVS1508](AVS1508.md ':include')
+
 </details>
 
 [Aditya664](https://github.com/Aditya664)
@@ -81,14 +93,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 [Ahmad-shaikh575](Ahmad-shaikh575.md ':include')
   
-</details>
-
-[Ahmed-Hossam](https://github.com/7oSkaaa)
-  
-<details>
-<summary>Preview  </summary>
-
-[Ahmed-Hossam](7oSkaaa.md ':include')
 </details>
 
 [Akash-chowrasia](https://github.com/Akash-chowrasia)
@@ -191,25 +195,25 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 [aastha12](https://github.com/aastha12)
-  
+
 <details>
 <summary>Preview  </summary>
 
 [aastha12](aastha12.md ':include')
-  
+
 </details>
 
 [aayushi-droid](https://github.com/aayushi-droid)
-  
+
 <details>
 <summary>Preview  </summary>
 
 [aayushi-droid](aayushi-droid.md ':include')
-  
+
 </details>
 
 [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
-  
+
 <details>
 <summary>Preview  </summary>
 
@@ -232,25 +236,25 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [acervenky](acervenky.md ':include')
-  
+
 </details>
 
 [adamalston](https://github.com/adamalston)
-  
+
 <details>
 <summary>Preview  </summary>
 
 [adamalston](adamalston.md ':include')
-  
+
 </details>
 
 [afc163](https://github.com/afc163)
-  
+
 <details>
 <summary>Preview  </summary>
 
 [afc163](afc163.md ':include')
-  
+
 </details>
 
 [akasrai](https://github.com/akasrai)
@@ -2678,6 +2682,34 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
+
+## 0
+
+## 1
+
+## 2
+
+## 3
+
+## 4
+
+## 5
+
+## 6
+
+## 7
+
+[7oSkaaa](https://github.com/7oSkaaa)
+  
+<details>
+<summary>Preview  </summary>
+
+[7oSkaaa](7oSkaaa.md ':include')
+</details>
+
+## 8
+
+## 9
 
 ## Credits
 All credits goes to the original authors of the GitHub profile. I don't own any content.
