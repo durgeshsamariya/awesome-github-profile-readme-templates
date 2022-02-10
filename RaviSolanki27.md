@@ -95,10 +95,3 @@
 Credit: [RaviSolanki27](https://github.com/RaviSolanki27)
 Last Edited on: 06/02/2022
 
-[RaviSolanki27](https://github.com/RaviSolanki27)
-<details>
-<summary>Preview  </summary>
-
-[RaviSolanki27](filename 'RaviSolanki27.md')
-
-</details>
