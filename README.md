@@ -1860,6 +1860,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## R
 
+[RaviSolanki27](https://github.com/RaviSolanki27)
+<details>
+<summary>Preview  </summary>
+
+[RaviSolanki27](RaviSolanki27.md ':include')
+
+</details>
+
+
 [RahulMahesh62](https://github.com/RahulMahesh62)
   
 <details>
