@@ -1,4 +1,5 @@
 # Hello There!
+
 I am nish. I am a beginner developer, here some info about me
 - 🙃 Pronouns: He/Him/They/Them
 - 👀 I’m interested in [Java](https://www.oracle.com/in/java/). I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something)
@@ -18,6 +19,21 @@ I am nish. I am a beginner developer, here some info about me
 <img alt="Spotify: Nishant1500" width="26px" height="26px" src="https://raw.githubusercontent.com/Nishant1500/Nishant1500/main/assets/Spotify.svg"/>
 </a>
 </p>
+
+```diff
+@@        Extra Contacts        @@
+```
+
+</p>
+
+---
+<p align="center">
+<a href="https://github.com/Nishant1500">
+<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+</a>
+</p>
+
+Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,10 +64,3 @@ I listen to a lot of songs on Spotify, so here my Spotify now playing status. Yo
   <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
   </p>
-
-
-------
-
-[Nishant1500](https://github.com/Nishant1500)
-<br>
-Last Edited: 15/02/2022, Time: 18:35:05
