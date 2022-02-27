@@ -8,7 +8,7 @@ https://readme-typing-svg.herokuapp.com/demo/-->
 <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
 <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--ILOVEOPENSOURCE-->
 <p align="center">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
@@ -26,7 +26,7 @@ https://github.com/kittinan/spotify-github-profile-->
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--RSS
 TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT--> 
 <p align="center">
@@ -65,7 +65,7 @@ https://asciiart.website/-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <!--STATS
 WEBSITE:
 https://github.com/anuraghazra/github-readme-stats-->
@@ -89,7 +89,7 @@ https://github.com/Platane/snk-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
  <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  <!--JOYEMOJI-->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
@@ -113,7 +113,7 @@ https://github.com/Platane/snk-->
 <img src="https://i.imgur.com/mGhPUXI.gif" width="200">
 <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000">  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">  
 <!--CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -147,7 +147,7 @@ https://github.com/ryo-ma/github-profile-trophy-->
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--LINE--> 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="17" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--THEME
 WEBSITE:
 https://fancytext.blogspot.com/-->
