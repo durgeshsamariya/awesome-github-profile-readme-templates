@@ -172,6 +172,8 @@ Last Edited on: 2/27/2022
 [trinib](filename ':trinib.md')
 
 </details>
+ 
+------
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rletc6ayb3llkoe9jvefv3m3h&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)</p></h1>
 
