@@ -135,8 +135,11 @@ https://github.com/Platane/snk-->
 <!--VIEWS
 WEBSITE:
 https://github.com/antonkomarev/github-profile-views-counter-->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-trinib&color=0E9C47&style=for-the-badge">
+<h4 align="center"
+ 
+![](https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge)
+
+<h4>
 <!--TROPHY
 WEBSITE:
 https://github.com/ryo-ma/github-profile-trophy-->
