@@ -2475,6 +2475,15 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
+[trinib](https://github.com/trinib)
+
+<details>
+<summary>Preview  </summary>
+
+[trinib](filename ':trinib.md')
+
+</details>
+
 
 ## U
 
