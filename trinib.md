@@ -89,7 +89,7 @@ https://github.com/Ashutosh00710/github-readme-activity-graph#customization-->
 WEBSITE:
 https://github.com/Platane/snk-->
 <p align="center">
-<img src="https://i.imgur.com/ZJRKvXp.gif" width="130">
+🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
 <!--LINE-->
 <p align="center">
