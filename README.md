@@ -2480,7 +2480,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[trinib](filename ':trinib.md')
+[trinib](trinib.md ':include')
 
 </details>
 
