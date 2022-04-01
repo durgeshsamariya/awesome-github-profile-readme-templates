@@ -2613,12 +2613,12 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
-[VishalRana](https://github.com/realvishalrana)
+[Vishal Rana](https://github.com/realvishalrana)
   
 <details>
 <summary>Preview  </summary>
 
-[VishalRana](realvishalrana.md ':include')
+[Vishal Rana](realvishalrana.md ':include')
   
 </details>
 
