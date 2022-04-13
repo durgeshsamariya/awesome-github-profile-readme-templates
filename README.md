@@ -69,7 +69,16 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[Aditya664](https://github.com/Aditya664)
+[adinath-nikam](https://github.com/adinath-nikam)
+  
+<details>
+<summary>Preview  </summary>
+
+[adinath-nikam](adinath-nikam.md ':include')
+  
+</details>
+
+[adinath-nikam](https://github.com/adinath-nikam)
   
 <details>
 <summary>Preview  </summary>
