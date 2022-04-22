@@ -30,6 +30,17 @@ I am a fullstack software developer from Enugu, Nigeria.😏👉👈
 <br>
 
 <a style="float: right;" href="https://app.daily.dev/KCMicheal"><img src="https://github.com/KCMicheal/KCMicheal/blob/master/devcard.svg" width="400" alt="KCM's Dev Card"/></a>
+
+------
+Credit: [KCMicheal](https://github.com/kcmicheal)
+Last Edited On: 23/04/2022
+
+<details>
+<summary>Preview  </summary>
+
+[KCMicheal](KCMicheal.md ':include')
+
+</details>
 <!--
 **KCMicheal/KCMicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
