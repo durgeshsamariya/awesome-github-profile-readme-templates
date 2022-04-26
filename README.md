@@ -1187,6 +1187,17 @@ Don't forget to hit the :star:, If you like this repo.
   
 </details>
 
+
+[jay Pavasiya](https://github.com/jaypavasiya)
+<details>
+<summary>Preview  </summary>
+
+[jaypavasiya](jaypavasiya.md ':include')
+  
+</details>
+
+
+
 [JessicaLim8](https://github.com/JessicaLim8)
   
 <details>
