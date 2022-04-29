@@ -35,8 +35,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[amirmahdi-seydi](https://github.com/amirmahdi-seydi)
-
 <details>
 <summary>Preview  </summary>
 
