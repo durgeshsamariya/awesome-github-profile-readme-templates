@@ -657,14 +657,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## D
 
-<details>
-<summary>Preview  </summary>
-
-[Daenges](Daenges.md ':include')
-
-</details>
-
-
 [DHANOLA](https://github.com/DHANOLA)
   
 <details>
@@ -682,6 +674,14 @@ Don't forget to hit the :star:, If you like this repo.
 [DataOnATangent](DataOnATangent.md ':include')
   
 </details>
+
+<details>
+<summary>Preview  </summary>
+
+[Daenges](Daenges.md ':include')
+
+</details>
+
 
 [Davekibh](https://github.com/Davekibh)
   
