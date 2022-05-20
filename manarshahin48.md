@@ -14,11 +14,12 @@
 - 📫 How to reach me **manarshahin48@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1y12hB7HVm2qXRh59lwwN7hKCAM7jfqUf/view?usp=sharing).
 - :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
+- 🐼 Doing my best
 
 <br>
 
 ## 📩 Connect with me
+
 <p align="center">
     <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -26,6 +27,7 @@
 </p>
 
 ## 🛠 Languages and Tools
+
 <br>
 <p align="center">
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
@@ -40,6 +42,7 @@
 </p>
 
 ## 📊 Github Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
   <br/>
   <p align="center">
@@ -48,7 +51,8 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
   
 ----
@@ -56,15 +60,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
 
-----
+---
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
 <br/>
 
+---
 
+Credit: [manarshahin48](https://github.com/manarshahin48)
 
+Last Edited on: 20/05/2022
