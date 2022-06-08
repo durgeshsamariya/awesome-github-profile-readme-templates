@@ -1779,7 +1779,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[Null3000](Null3000.md ':include')
+[Null3000](null3000.md ':include')
 
 </details>
 
