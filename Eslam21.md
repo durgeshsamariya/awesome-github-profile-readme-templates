@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eslam Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><a/>
+<h1 align="center">Hi, I'm Eslam Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="https://github.com/404"><a/>
 <br> A passionate Data Science Student from Egypt
   </h1>
 
@@ -41,7 +41,7 @@
 -----
 
 
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
+## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
 | ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam21) |
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=eslam21) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
