@@ -1775,7 +1775,7 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-[Null3000] (https://github.com/null3000)
+[Null3000](https://github.com/null3000)
 <details>
 <summary>Preview  </summary>
 
