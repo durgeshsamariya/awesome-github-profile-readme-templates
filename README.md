@@ -1337,7 +1337,6 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
-
 [KevinPatel04](https://github.com/KevinPatel04)
 
 <details>
@@ -1786,13 +1785,13 @@ Don't forget to hit the :star:, If you like this repo.
 </details>
 
 [Null3000](https://github.com/null3000)
+
 <details>
 <summary>Preview  </summary>
 
 [Null3000](null3000.md ':include')
 
 </details>
-
 
 ## O
 
@@ -1906,6 +1905,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+[phuocantd](https://github.com/phuocantd)
+
+<details>
+<summary>Preview  </summary>
+
+[phuocantd](phuocantd.md ':include')
+
+</details>
+
 [piyushxbajaj](https://github.com/piyushxbajaj)
 
 <details>
@@ -1988,7 +1996,6 @@ Don't forget to hit the :star:, If you like this repo.
 [rahulkarda](rahulkarda.md ':include')
 
 </details>
-
 
 [RahulMahesh62](https://github.com/RahulMahesh62)
 
