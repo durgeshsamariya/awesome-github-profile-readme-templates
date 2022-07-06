@@ -6,14 +6,23 @@
 
 A collection of GitHub profile README's examples.
 
-[Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) how to contribute.
-Feel free to add your or some one else's GitHub profile README file.
+[Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on to contribute.
+Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star:, If you like this repo.
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [0](#0) | [1](#1) | [2](#2) | [3](#3) | [4](#4) | [5](#5) | [6](#6) | [7](#7) | [8](#8) | [9](#9)
 
 ## A
+
+[Abdo Achhoubi](https://github.com/abdoachhoubi)
+
+<details>
+<summary>Preview  </summary>
+
+[abdoachhoubi](abdoachhoubi.md ":include")
+
+</details>
 
 [abhigyantrips](https://github.com/abhigyantrips)
 
@@ -1481,7 +1490,24 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+<details>
+<summary>Preview  </summary>
+
+[linitio](linitio.md ':include')
+
+
+</details>
+
 ## M
+
+[mahmoudmiehob](https://github.com/MahmoudMiehob)
+
+<details>
+<summary>Preview  </summary>
+
+[mahmoudmiehob](mahmoudmiehob.md ':include')
+
+</details>
 
 [mahiiverse1](https://github.com/mahiiverse1)
 
@@ -2875,13 +2901,6 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [1999azzar](1999azzar.md ":include")
-
-</details>
-
-<details>
-<summary>Preview  </summary>
-
-[Danushka2](Danushka2.md ":include")
 
 </details>
 
