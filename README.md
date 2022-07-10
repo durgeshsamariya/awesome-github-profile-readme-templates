@@ -987,6 +987,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## H
 
+[hashfx](https://github.con/hashfx)
+
+<details>
+<summary>Preview  </summary>
+
+[hashfx](hashfx.md ':include')
+
+</details>
+
 [HridoyHazard](https://github.com/HridoyHazard)
 
 <details>
