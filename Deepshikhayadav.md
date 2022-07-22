@@ -42,7 +42,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
-[![Sololearn](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.sololearn.com/profile/18833908)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)
 
 
 
