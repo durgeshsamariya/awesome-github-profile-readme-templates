@@ -46,5 +46,5 @@
 
 
 
-[![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=white)](https://github.com/deepshikhayadav)
+[![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
 ![Profile views](https://gpvc.arturio.dev/deepshikhayadav)  
