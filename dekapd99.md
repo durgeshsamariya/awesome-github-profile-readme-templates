@@ -1,10 +1,10 @@
-<h4 align="center"> Hello 👋 my name is Deka. Don't mind me, i am just doing my thing here. <h4>
+<h4 align="center"> Hello 👋 my name is Deka. Don't mind me, i am just doing my thing here. </h4>
 <div>    
   <div align="center">
     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dekapd99&theme=shades-of-purple" />
   </div>
     
-  <br>
+  <br />
   
   <div align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -28,3 +28,22 @@
   <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=dekapd99&include_all_commits=true&show_icons=true&theme=shades-of-purple" />
   <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekapd99&layout=compact&theme=shades-of-purple" />
 </div>
+
+<!-- CONTENT LIMIT -->
+
+<div>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>
+
+------
+
+Credit: [dekapd99](https://github.com/dekapd99)
+
+Last Edited on: 04/08/2022
