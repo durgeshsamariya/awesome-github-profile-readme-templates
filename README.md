@@ -433,7 +433,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[Bouaskaoun](Bouaskaoun.md ':include')
+[Bouaskaoun](Bouaskaoun.md ":include")
 
 </details>
 
@@ -1019,7 +1019,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[hashfx](hashfx.md ':include')
+[hashfx](hashfx.md ":include")
 
 </details>
 
@@ -1544,7 +1544,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[mahmoudmiehob](mahmoudmiehob.md ':include')
+[mahmoudmiehob](mahmoudmiehob.md ":include")
 
 </details>
 
@@ -1982,7 +1982,7 @@ Don't forget to hit the :star:, If you like this repo.
 <details>
 <summary>Preview  </summary>
 
-[phuocantd](phuocantd.md ':include')
+[phuocantd](phuocantd.md ":include")
 
 </details>
 
@@ -2205,7 +2205,6 @@ Don't forget to hit the :star:, If you like this repo.
 [Sarath-PM](sarath-pm.md ":include")
 
 </details>
-
 
 [Sabihashaik](https://github.com/Sabihashaik)
 
@@ -2529,6 +2528,15 @@ Don't forget to hit the :star:, If you like this repo.
 <summary>Preview  </summary>
 
 [suzel](suzel.md ":include")
+
+</details>
+
+[sxoxgxi](https://github.com/sxoxgxi)
+
+<details>
+<summary>Preview  </summary>
+
+[sxoxgxi](sxoxgxi.md ":include")
 
 </details>
 
