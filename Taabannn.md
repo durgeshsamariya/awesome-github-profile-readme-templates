@@ -85,10 +85,8 @@
   </tr>
 </table>
 
----
+------
 
-<div align="center">
 Credit: [Taabannn](https://github.com/Taabannn)
-Last Edited on: 07/08/2022
-</div>
 
+Last Edited on: 07/08/2022
