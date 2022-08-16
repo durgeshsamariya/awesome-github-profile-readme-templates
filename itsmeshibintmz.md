@@ -247,3 +247,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </details>
 
 #### To reach me: just send an email, or a message on discord , all links are above! 
+
+------
+Credit: [itsmeshibintmz](https://github.com/itsmeshibintmz)
+Last Edited on: 01/08/2022
