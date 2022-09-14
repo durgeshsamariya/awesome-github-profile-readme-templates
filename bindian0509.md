@@ -1,15 +1,15 @@
 
-## Hi there... I am Bharat 👋 from India
+## Hey there ... I am Bharat 👋
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove" alt="Bharat" />
+![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working on GoLang, Docker and Kubernetes
+- 🔭 I'm currently working as Manager of Backend Engineering with GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
 - 🌱 I'm currently learning AWS Cloud along with K8s
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
 - 💬 Ask me about Java, SQL or NoSQL database, System designing problems. 
-- 📫 How to reach me: bharatv [at] outlook.in
+- 📫 How to reach me: bharatv [at] outlook.in or on twitter [@bharat](https://twitter.com/bindian0509)
 - 😄 Pronouns: He/Him/His
 
 
