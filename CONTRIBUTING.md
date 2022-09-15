@@ -22,18 +22,7 @@ This is a curated list so the goal is not to collect all possible resources but 
     - Credit: `[username](https://github.com/username)`
     - Last Edited on: Date when you edited this file. The date must be in DD/MM/YYYY format.
 
-- Step 7: Add your name and filename in **README.md** like this
-
-```[name](https://github.com/name)
-<details>
-<summary>Preview  </summary>
-
-[name](filename ':include')
-
-</details>
-```
-
-    - Do not forget to give proper newlines before and after 4th line
+- Step 7: Add your filename in **_sidebar.md** 
 
 - Step 8: Save the file and commit your changes with the proper message. Your message must contain your username. 
 
