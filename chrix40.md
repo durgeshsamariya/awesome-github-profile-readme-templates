@@ -1,4 +1,4 @@
-# Bem vindo ao meu Perfil! 💻  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
+# Seja bem vindo ao meu Perfil! 💻  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
 
 ### Sobre mim :
 
@@ -40,5 +40,8 @@
    <a href="https://www.linkedin.com/in/christian-roberto40/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
  <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:christian2020022014@gmail.com"></a>&nbsp;&nbsp;
  </p>
- 
 
+ ------
+
+Credit: [chrix40](https://github.com/chrix40) 
+Last edited on: 15/09/2022
