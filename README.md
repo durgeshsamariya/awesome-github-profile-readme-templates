@@ -1369,12 +1369,15 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+[Jaivardhan Bhola](https://github.com/jaivardhan-bhola)
+
 <details>
 <summary>Preview  </summary>
 
-[Jaivardhan Bhola](https://github.com/jaivardhan-bhola)
+[Jaivardhan Bhola](jaivardhan-bhola.md ":include")
 
 </details>
+
 ## K
 
 [KasRoudra](https://github.com/KasRoudra)
