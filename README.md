@@ -1369,6 +1369,12 @@ Don't forget to hit the :star:, If you like this repo.
 
 </details>
 
+<details>
+<summary>Preview  </summary>
+
+[Jaivardhan Bhola](https://github.com/jaivardhan-bhola)
+
+</details>
 ## K
 
 [KasRoudra](https://github.com/KasRoudra)
