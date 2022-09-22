@@ -4,7 +4,6 @@ Please [open a pull request](https://github.com/themlphdstudent/awesome-github-p
 
 This is a curated list so the goal is not to collect all possible resources but collect the ones which are most helpful, provide a unique perspective, or are of special significance.
 
-
 ## How to contribute:
 
 - Step 1: Fork this repository.
@@ -15,27 +14,21 @@ This is a curated list so the goal is not to collect all possible resources but 
 
 - Step 4: Create a new markdown file. Your file name should be your GitHub username.
 
-- Step 5: Copy and Paste your GitHub profile readme content in the new file.
+- Step 5: Copy and Paste your GitHub profile readme content in the new file. Put file in **templates**
 
-- Step 6: At the end of the file add the following content with appropriate changes. 
-    - Add line break using this command `------`
-    - Credit: `[username](https://github.com/username)`
-    - Last Edited on: Date when you edited this file. The date must be in DD/MM/YYYY format.
+- Step 6: At the end of the file add the following content with appropriate changes.
 
-- Step 7: Add your name and filename in **README.md** like this
+  - Add line break using this command `------`
+  - Credit: `[username](https://github.com/username)`
+  - Last Edited on: Date when you edited this file. The date must be in DD/MM/YYYY format.
 
-```[name](https://github.com/name)
-<details>
-<summary>Preview  </summary>
+- Step 7: Add your name and filename in **\_sidebar.md** like this
 
-[name](filename ':include')
-
-</details>
+```
+- [name](https://github.com/name)
 ```
 
-    - Do not forget to give proper newlines before and after 4th line
-
-- Step 8: Save the file and commit your changes with the proper message. Your message must contain your username. 
+- Step 8: Save the file and commit your changes with the proper message. Your message must contain your username.
 
 - Step 9: Push your commit to GitHub.
 
