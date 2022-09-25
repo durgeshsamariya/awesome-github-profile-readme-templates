@@ -60,6 +60,7 @@
     - [avneesh0612](/templates/avneesh0612.md)
     - [AVS1508](/templates/AVS1508.md)
   - B
+    - [bindian0509](https://github.com/bindian0509)
     - [b4dcat404](/templates/b4dcat404.md)
     - [BaseMax](/templates/BaseMax.md)
     - [bdougie](/templates/bdougie.md)
