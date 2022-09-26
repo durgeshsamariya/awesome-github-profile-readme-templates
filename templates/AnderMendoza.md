@@ -43,3 +43,9 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+------
+
+Credit: [Anderson Mendoza](https://github.com/andermendoza)
+
+Last Edited on: 26/09/2022
