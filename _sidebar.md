@@ -135,6 +135,7 @@
     - [hashfx](/templates/hashfx.md)
     - [hendrasob](/templates/hendrasob.md)
     - [hgdsandakalum](/templates/hgdsandakalum.md)
+    - [hhpr98](/templates/hhpr98.md)
     - [hijal](/templates/hijal.md)
     - [HridoyHazard](/templates/HridoyHazard.md)
     - [hrnbot](/templates/hrnbot.md)
