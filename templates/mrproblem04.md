@@ -40,3 +40,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrproblem04&theme=radical)
 </div>
 </p>
+
+------------
+
+- Credit: [mrproblem04](https://github.com/mrproblem04)
+- Last edited: 06/10/2022
