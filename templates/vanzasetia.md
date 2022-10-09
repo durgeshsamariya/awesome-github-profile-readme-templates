@@ -1,31 +1,42 @@
-![2+ years of the learning experience. Frontend Web Developer.](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
+# Hi! I Make Accessible Websites with Modern Best Practices :wave:
+
+![](https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg)
 
 <div align="left">
   <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
   <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
   <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge" alt="GitHub">
 </div>
 
-# XML Makes Me Learn HTML
+## Tell Me a Little Bit About Yourself :sunglasses:
 
-Hi there! My name is Vanza Setia. For over two years, I've been studying front-end web development.
+I have been learning front-end web development for more than two years. I specialized in creating accessible websites. In the last year alone, I have completed more than 20 projects in Frontend Mentor. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback.
 
-## How Do You Start Learning about Web Development?
+My strength is my ability to create accessible websites. I pride myself on my reputation in the community by creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website.
 
-I started learning web development because of XML. At first, I didn't want to learn about web development. I wanted to hack a game. The game contains player data written in XML format. So, I decided to learn XML.
+**I recommend looking through the pinned repositories which showcase my current skills.**
 
-My goal in learning XML was if any other games used XML to store player data, I could understand the code and then change the data. But, it turns out that there were the very little amount of XML tutorials. Most of the tutorials were about HTML. As a result, I decided to watch the XML and HTML tutorials.
+I spend my free time playing [sudoku](https://en.wikipedia.org/wiki/Sudoku). :wink:
 
-After I watched the HTML tutorial video, all of a sudden, I remembered something. I remembered wanting to build a website when I was a kid. The purpose of my website was to allow people to download modded or hacked games. So, I decided to learn about web development instead of hacking games.
+## Technical Skills & Tools
 
-## Tell Me a Little Bit about Yourself
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
+- [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
+- [Sass](https://sass-lang.com/) - CSS pre-processor. It helps me organize my stylesheets while still compiling them into a single CSS file.
+- [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers.
+- [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install NPM packages.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
-I have been learning front-end web development for more than two years. I specialized in creating accessible websites. In the last year alone, I have completed more than 20 projects in Frontend Mentor. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback. That's what I am passionate about.
+## Accomplishments :trophy:
 
-My strength is my ability to create accessible websites. I pride myself on my reputation in the community creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website. I want those people to learn from my mistakes and get something when they visit my repositories.
+- Top 10 Member among 450K+ Members (see [Frontend Mentor Wall Of Fame](https://www.frontendmentor.io/wall-of-fame?tab=all))
+- Helped 1000+ Developers (see [all my code reviews at Frontend Mentor](https://www.frontendmentor.io/profile/vanzasetia/comments))
+- Finished 25+ Projects (see [all my projects at Frontend Mentor](https://www.frontendmentor.io/profile/vanzasetia/solutions))
 
-## I Wrote Some Blog Posts
+## Blog Posts :memo:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -33,19 +44,17 @@ My strength is my ability to create accessible websites. I pride myself on my re
 - [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
 - [Recursion In Programming &lpar;Simplified Version&rpar;](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
 - [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
-## How about Some Bullet Points?
+## How about Some Bullet Points? :heavy_check_mark:
 
-- I'm currently working on [GitHub user search app challenge](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6/).
-- I'm currently learning [GitHub users API](https://docs.github.com/en/rest/users/users#get-a-user).
-- I'm looking for help with getting a job.
-- How to reach me:
-  - You can [contact me through email](mailto:venusbumi2@gmail.com)
-  - Direct message me on the Frontend Mentor Slack community. It is the recommended way. However, you need to join the Slack community to do that.
-- Fun fact: I'm currently doing my first API challenge.
+- I'm currently working on [myteam multi-page website challenge](https://www.frontendmentor.io/challenges/myteam-multipage-website-mxlEauvW/).
+- I'm currently learning [React](https://reactjs.org/) and [Svelte](https://svelte.dev/).
+- You can [contact me through email](mailto:venusbumi2@gmail.com)
+- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vanzasetia/)**
+- Fun fact: myteam multi-page website challenge is the first advanced challenge that I am doing.
 
-## What about Some Statistics?
+## What about Some Statistics? :bar_chart:
 
 <details>
 <summary>View my activity on GitHub</summary>
@@ -60,4 +69,4 @@ My strength is my ability to create accessible websites. I pride myself on my re
 
 Credit: [vanzasetia](https://github.com/vanzasetia)
 
-Last Edited on: 01/06/2022
+Last Edited on: 09/10/2022
