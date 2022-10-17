@@ -366,5 +366,6 @@
     - [yzhao062](/templates/yzhao062.md)
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
+    - [zeeid](https://github.com/zeeid)
     - [zjayers](/templates/zjayers.md)
     - [zmcx16](/templates/zmcx16.md)
