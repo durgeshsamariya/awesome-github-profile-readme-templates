@@ -174,7 +174,7 @@
     - [jrmydix](/templates/jrmydix.md)
     - [jy1263](/templates/jy1263.md)
   - K
-    - [kaburelabs](/templates/kaxiif.md)
+    - [kaxiif](/templates/kaxiif.md)
     - [kaburelabs](/templates/kaburelabs.md)
     - [kaizoku-oh](/templates/kaizoku-oh.md)
     - [KasRoudra](/templates/KasRoudra.md)
