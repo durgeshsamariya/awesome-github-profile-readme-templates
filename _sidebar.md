@@ -227,7 +227,6 @@
     - [naisofly](/templates/naisofly.md)
     - [nasreekar](/templates/nasreekar.md)
     - [NavodyaPasqual](/templates/NavodyaPasqual.md)
-    - [Niko-Cloud](/templates/Niko-Cloud.md)
     - [Nishant1500](/templates/Nishant1500.md)
     - [Nishant1500](/templates/Nishant1500.md)
     - [Nneji123](/templates/Nneji123.md)
