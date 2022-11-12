@@ -370,5 +370,6 @@
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
     - [zeeid](https://github.com/zeeid)
+    - [zillastar](/templates/zillastar.md)
     - [zjayers](/templates/zjayers.md)
     - [zmcx16](/templates/zmcx16.md)
