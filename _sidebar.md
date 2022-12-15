@@ -40,6 +40,7 @@
     - [aman-atg](/templates/aman-atg.md)
     - [amardeepkesharwani](/templates/amardeepkesharwani.md)
     - [amxchang](/templates/amxchang.md)
+    - [Anas Masti](https://github.com/anasmasti/anasmasti)
     - [AnderMendoza](https://github.com/andermendoza)
     - [andyruwruw](/templates/andyruwruw.md)
     - [AnhellO](/templates/AnhellO.md)
