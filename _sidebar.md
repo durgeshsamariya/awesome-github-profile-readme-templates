@@ -57,6 +57,7 @@
     - [ashrafkm](/templates/ashrafkm.md)
     - [ASovindu](/templates/ASovindu.md)
     - [aveek-saha](/templates/aveek-saha.md)
+    - [Austinae](/templates/Austinae.md)
     - [AvidCoder101](/templates/AvidCoder101.md)
     - [avinash-218](/templates/avinash-218.md)
     - [avneesh0612](/templates/avneesh0612.md)
