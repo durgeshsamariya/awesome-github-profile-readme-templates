@@ -66,6 +66,7 @@
     - [bindian0509](/templates/bindian0509)
     - [b4dcat404](/templates/b4dcat404.md)
     - [BaseMax](/templates/BaseMax.md)
+    - [Berkeli](/templates/Berkeli.md)
     - [bdougie](/templates/bdougie.md)
     - [Bgstatic](/templates/Bgstatic.md)
     - [Bhargavi-hash](/templates/Bhargavi-hash.md)
