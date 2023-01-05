@@ -258,6 +258,7 @@
     - [PluckyPrecious](/templates/PluckyPrecious.md)
     - [pmbechard](/templates/pmbechard.md)
     - [pr2tik1](/templates/pr2tik1.md)
+    - [pranshu05](/templates/pranshu05.md)
     - [prathimacode-hub](/templates/prathimacode-hub.md)
     - [prathmesh16](/templates/prathmesh16.md)
     - [pratik-kale20](/templates/pratik-kale20.md)
