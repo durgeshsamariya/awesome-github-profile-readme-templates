@@ -40,6 +40,6 @@
 </p>
 
 ---
-Credit: [KevinPatel04](https://github.com/osamamohammed98)
+Credit: [osamamohammed98](https://github.com/osamamohammed98)
 
 Last Updated On: 13/06/2021
