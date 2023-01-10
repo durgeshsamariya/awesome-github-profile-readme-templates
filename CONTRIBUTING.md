@@ -13,7 +13,9 @@ This is a curated list so the goal is not to collect all possible resources but 
 - Step 3: Create a new branch.
 
 - Step 4: Create a new markdown file. Your file name should be your GitHub username.
-
+```
+- File name should be username.md 
+```
 - Step 5: Copy and Paste your GitHub profile readme content in the new file. Put file in **templates**
 
 - Step 6: At the end of the file add the following content with appropriate changes.
@@ -25,10 +27,13 @@ This is a curated list so the goal is not to collect all possible resources but 
 - Step 7: Add your name and filename in **\_sidebar.md** like this
 
 ```
-- [name](https://github.com/name)
+- [username](/templates/username.md)
 ```
 
 - Step 8: Save the file and commit your changes with the proper message. Your message must contain your username.
+```
+- Example Message : Added template for username: <username>
+```
 
 - Step 9: Push your commit to GitHub.
 
