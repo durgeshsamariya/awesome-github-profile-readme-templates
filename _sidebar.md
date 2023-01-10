@@ -145,6 +145,7 @@
     - [HridoyHazard](/templates/HridoyHazard.md)
     - [hrnbot](/templates/hrnbot.md)
     - [hrugved06](/templates/hrugved06.md)
+    - [hxrii](/templates/hxrii.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
