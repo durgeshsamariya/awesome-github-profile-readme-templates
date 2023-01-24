@@ -299,6 +299,7 @@
     - [shaan71845](/templates/shaan71845.md)
     - [sharannyobasu](/templates/sharannyobasu.md)
     - [shaurya-src](/templates/shaurya-src.md)
+    - [Shourya742](/templates/Shourya742.md)
     - [shravanatirtha](/templates/shravanatirtha.md)
     - [Shreya549](/templates/Shreya549.md)
     - [Shwetang550](/templates/Shwetang550.md)
