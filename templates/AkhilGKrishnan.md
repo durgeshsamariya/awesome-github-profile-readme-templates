@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/Shubh2-0/CensorLabel)
 
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
 
