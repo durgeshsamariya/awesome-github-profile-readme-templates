@@ -16,9 +16,9 @@
 <div align="center">
 <img align="center" style="height: 180px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true"/>
 <img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Followers,Issues"/><br>
-
+  
   <h3 align="left">
-    <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp
+    <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp   
     Im Evryon (Ev for short), or <a href="https://www.youtube.com/watch?v=sLVBCeZ7NjQ">Daniel</a>, and im from Italy.<br>
     <img title="Coding" align="center" style="height: 30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png"/>&nbsp
     Im a passionate developer, and although i am going to an IT school in theory, i am mostly self taught.<br>
@@ -145,9 +145,13 @@
 <h3 align="center">2023</h3>
 
 - [ ] `Clarissa` Operating System » Rust (Current project)
+
+<a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Clarissa&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
 - [ ] Rewrite the Pin manager bot  » Rust
-- [ ] Fully fledged 3D engine » Probably in Go
+- [ ] 3D engine » Probably in Go
+- [ ] 3D Physics engine » Rust
 - [ ] Portfolio » Vanilla, Vite, Three.js
 + Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
 - [ ] Car drifting game » Unity
@@ -160,14 +164,29 @@
 
 <h3 align="center">2022</h3>
 
-- [x] Ev programming language » Rust (https://github.com/Evryon75/Ev-Interpreter)
-- [x] Ev lang documentation » Angular.js (https://github.com/Evryon75/Ev-Lang-Documentation)
-+ website: https://evryon75.github.io/Ev-Lang-Documentation/
-- [x] Sussy Squares » Java (https://github.com/Evryon75/Sussy-Squares)
-- [x] Conway's Game of Life » Java (https://github.com/Evryon75/Conway-s-Game-of-Life)
-- [x] Red Square Jumping » Unity (https://github.com/Evryon75/Red-Square-Jumping)
-- [x] Pin Manager » Java, Discord bot (https://github.com/Evryon75/Pin-Manager_Discord-Bot)
-- [x] Homing Object » Java (https://github.com/Evryon75/Homing-Object)
+- [x] `Ev` programming language » Rust
+<br><br><a href="https://github.com/Evryon75/Ev-Interpreter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Ev-Interpreter&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Ev lang documentation » Angular.js
+<br><br><a href="https://github.com/Evryon75/Ev-Lang-Documentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Ev-Lang-Documentation&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+> https://evryon75.github.io/Ev-Lang-Documentation/
+
+
+- [x] Sussy Squares » Java
+<br><br><a href="https://github.com/Evryon75/Sussy-Squares"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Sussy-Squares&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Conway's Game of Life » Java
+<br><br><a href="https://github.com/Evryon75/Conway-s-Game-of-Life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Conway-s-Game-of-Life&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Red Square Jumping » Unity
+<br><br><a href="https://github.com/Evryon75/Red-Square-Jumping"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Red-Square-Jumping&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Pin Manager » Java, Discord bot
+<br><br><a href="https://github.com/Evryon75/Pin-Manager_Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Manager_Discord-Bot&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Homing Object » Java
+<br><br><a href="https://github.com/Evryon75/Homing-Object"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Homing-Object&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 <br>
 
@@ -175,22 +194,18 @@
 
 <img title="PC" align="right" top="500" src="https://image.apktoy.com/img/ca/com.aminapps.PCBuildingSimulator2/icon.png"/>
 <div>
-
-**CPU**: AMD Ryzen 5 5600 6-Core Processor
-
-**GPU**: MSI NVIDIA GeForce RTX 3080<br>
-
+  
+  **CPU**: AMD Ryzen 5 5600 6-Core Processor
+  
+  **GPU**: MSI NVIDIA GeForce RTX 3080<br>
+  
 </div>
 <div>
-
-**RAM**: 2x16 T-Force<br>
-
-**PSU**: MSI MPG A850GF 850w<br>
-
-**Motherboard**: MSI PRO B550-P GEN3<br>
-
+  
+  **RAM**: 2x16 T-Force<br>
+  
+  **PSU**: MSI MPG A850GF 850w<br>
+  
+  **Motherboard**: MSI PRO B550-P GEN3<br>
+  
 </div>
-
-------
-Credit: [Evryon75](https://github.com/Evryon75)<br>
-Last Edited on: 04/02/2023
