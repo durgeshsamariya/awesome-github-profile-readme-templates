@@ -3,9 +3,9 @@
 <h1 align="center">Evryon</h1>
 
 ```rust
-174 |   fn wake_up() {
+    174 |   fn wake_up() {
     175 |         // school(); breaks everything
-        176 |         eat("protein");
+    176 |         eat("protein");
     177 |         code(projects[0]);
     718 |         work_out();
     179 |         sleep();
