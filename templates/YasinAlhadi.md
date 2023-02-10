@@ -17,6 +17,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
+  
   ---
 
 ### :man_technologist: About Me :
@@ -39,6 +40,7 @@ I am a Full Stack Developer from Sudan.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   </div>
+
   ---
 
 ### :fire: My Stats :
@@ -46,5 +48,6 @@ I am a Full Stack Developer from Sudan.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinAlhadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 Credit: <a herf="https://github.com/YasinAlhadi"> Yasin Alhadi </a><br />
 Last Edited on: 10/02/2023
