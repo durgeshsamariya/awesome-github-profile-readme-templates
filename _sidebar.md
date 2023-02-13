@@ -376,6 +376,7 @@
     - [YasPHP](/templates/YasPHP.md)
     - [yuebaix](/templates/yuebaix.md)
     - [yzhao062](/templates/yzhao062.md)
+    - [YasinAlhadi](/templates/YasinAlhadi.md)
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
     - [zeeid](https://github.com/zeeid)
