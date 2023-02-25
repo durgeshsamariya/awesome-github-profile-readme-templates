@@ -214,6 +214,7 @@
     - [MarikIshtar007](/templates/MarikIshtar007.md)
     - [martonlederer](/templates/martonlederer.md)
     - [MasonSlover](/templates/MasonSlover.md)
+    - [MR-Addict](/templates/MR-Addict.md)
     - [matheusfelipeog](/templates/matheusfelipeog.md)
     - [matyo91](/templates/matyo91.md)
     - [maximousblk](/templates/maximousblk.md)
