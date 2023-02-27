@@ -110,6 +110,7 @@
     - [dev-akshat](/templates/dev-akshat.md)
     - [devboyarif](/templates/devboyarif.md)
     - [devSouvik](/templates/devSouvik.md)
+    - [dexprexxtion](/templates/dexprexxtion.md)
     - [DHANOLA](/templates/DHANOLA.md)
     - [dinhanhthi](/templates/dinhanhthi.md)
     - [DiptoChakrabarty](/templates/DiptoChakrabarty.md)
