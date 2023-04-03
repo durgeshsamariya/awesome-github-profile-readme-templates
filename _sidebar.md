@@ -249,6 +249,7 @@
     - [OmkarPathak](/templates/OmkarPathak.md)
     - [orhun](/templates/orhun.md)
     - [oribendetcx](/templates/oribendetcx.md)
+    - [oyepriyansh](/templates/oyepriyansh.md)
   - P
     - [p-w](/templates/p-w.md)
     - [Parply](/templates/Parply.md)
