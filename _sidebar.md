@@ -189,6 +189,7 @@
     - [KevinPatel04](/templates/KevinPatel04.md)
     - [khalby786](/templates/khalby786.md)
     - [Khushi0321](/templates/Khushi0321.md)
+    - [Kingsky1t](/templates/Kingsky1t.md)
     - [klee1611](/templates/klee1611.md)
     - [kmhmubin](/templates/kmhmubin.md)
     - [KunalRaghav](/templates/KunalRaghav.md)
