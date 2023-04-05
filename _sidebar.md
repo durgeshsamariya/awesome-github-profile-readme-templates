@@ -144,6 +144,7 @@
     - [hhpr98](/templates/hhpr98.md)
     - [hijal](/templates/hijal.md)
     - [HridoyHazard](/templates/HridoyHazard.md)
+    - [hrishabh1306](/templates/hrishabh1306.md)
     - [hrnbot](/templates/hrnbot.md)
     - [hrugved06](/templates/hrugved06.md)
     - [hxrii](/templates/hxrii.md)
