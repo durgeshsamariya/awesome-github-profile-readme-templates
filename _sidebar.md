@@ -79,6 +79,7 @@
     - [bornmay](/templates/bornmay.md)
     - [Bouaskaoun](/templates/Bouaskaoun.md)
     - [BrantLauro](/templates/BrantLauro.md)
+    - [Bratet](/templates/Bratet.md)
     - [BRdhanani](/templates/BRdhanani.md)
     - [bugahontas](/templates/bugahontas.md)
     - [brightkut](/templates/brightkut.md)
