@@ -375,6 +375,7 @@
     - [Xx-Ashutosh-xX](/templates/Xx-Ashutosh-xX.md)
   - Y
     - [YasPHP](/templates/YasPHP.md)
+    - [Yogesh](/templates/vibrantfix.md)
     - [yuebaix](/templates/yuebaix.md)
     - [yzhao062](/templates/yzhao062.md)
     - [YasinAlhadi](/templates/YasinAlhadi.md)
