@@ -108,6 +108,7 @@
     - [DenverCoder1](/templates/DenverCoder1.md)
     - [dereknguyen269](/templates/dereknguyen269.md)
     - [dev-akshat](/templates/dev-akshat.md)
+    - [devbn3li](/templates/devbn3li.md)
     - [devboyarif](/templates/devboyarif.md)
     - [devSouvik](/templates/devSouvik.md)
     - [DHANOLA](/templates/DHANOLA.md)
