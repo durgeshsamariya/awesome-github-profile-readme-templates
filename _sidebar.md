@@ -83,6 +83,7 @@
     - [BRdhanani](/templates/BRdhanani.md)
     - [bugahontas](/templates/bugahontas.md)
     - [brightkut](/templates/brightkut.md)
+    - [beyzaerf](/templates/beyzaerf.md)
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
