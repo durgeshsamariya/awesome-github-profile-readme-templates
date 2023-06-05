@@ -3,6 +3,7 @@
     - [0xabdulkhalid](/templates/0xabdulkhalid.md)
   - 1
     - [100rabhcsmc](/templates/100rabhcsmc.md)
+    - [1010nishant](/templates/1010nishantx.md)
     - [1999azzar](/templates/1999azzar.md)
   - 2
   - 3
@@ -82,6 +83,7 @@
     - [BRdhanani](/templates/BRdhanani.md)
     - [bugahontas](/templates/bugahontas.md)
     - [brightkut](/templates/brightkut.md)
+    - [beyzaerf](/templates/beyzaerf.md)
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
@@ -147,6 +149,7 @@
     - [hrnbot](/templates/hrnbot.md)
     - [hrugved06](/templates/hrugved06.md)
     - [hxrii](/templates/hxrii.md)
+    - [henrymedeiros](/templates/henrymedeiros.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
@@ -244,6 +247,7 @@
     - [novatorem](/templates/novatorem.md)
     - [nuhmanpk](/templates/nuhmanpk.md)
     - [Null3000](/templates/null3000.md)
+    - [N3dal](/templates/N3dal.md)
   - O
     - [oHTGo](/templates/oHTGo.md)
     - [OmkarPathak](/templates/OmkarPathak.md)
@@ -375,6 +379,7 @@
     - [Xx-Ashutosh-xX](/templates/Xx-Ashutosh-xX.md)
   - Y
     - [YasPHP](/templates/YasPHP.md)
+    - [Yogesh](/templates/vibrantfix.md)
     - [yuebaix](/templates/yuebaix.md)
     - [yzhao062](/templates/yzhao062.md)
     - [YasinAlhadi](/templates/YasinAlhadi.md)
