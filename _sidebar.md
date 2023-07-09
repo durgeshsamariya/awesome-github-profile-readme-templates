@@ -101,6 +101,7 @@
     - [CyrisXD](/templates/CyrisXD.md)
   - D
     - [Daenges](/templates/Daenges.md)
+    - [danieldanielecki](/templates/danieldanielecki.md)
     - [dart-coder](/templates/dart-coder.md)
     - [DataOnATangent](/templates/DataOnATangent.md)
     - [Davekibh](/templates/Davekibh.md)
