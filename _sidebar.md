@@ -178,6 +178,7 @@
     - [jayehernandez](/templates/jayehernandez.md)
     - [jaypavasiya](/templates/jaypavasiya.md)
     - [jayrajroshan](/templates/jayrajroshan.md)
+    - [jeffdevx](/templates/jeffdevx.md)
     - [JessicaLim8](/templates/JessicaLim8.md)
     - [jewdev](/templates/jewdev.md)
     - [jlengstorf](/templates/jlengstorf.md)
