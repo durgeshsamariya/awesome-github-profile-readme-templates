@@ -47,9 +47,13 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p> 
 <br>
 </div>
 
-
+ ------
+ Credit: [MarciaGabrielle](https://github.com/MarciaGabrielle)
+ Last Edited on: 24/08/2023
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
