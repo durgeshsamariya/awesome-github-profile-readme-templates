@@ -45,6 +45,7 @@
     - [AnderMendoza](https://github.com/andermendoza)
     - [andyruwruw](/templates/andyruwruw.md)
     - [AnhellO](/templates/AnhellO.md)
+    - [ANii693](/templates/ANii693.md)
     - [ankitwarbhe](/templates/ankitwarbhe.md)
     - [anmol098](/templates/anmol098.md)
     - [anuraghazra](/templates/anuraghazra.md)
