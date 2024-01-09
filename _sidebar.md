@@ -49,6 +49,7 @@
     - [ANii693](/templates/ANii693.md)
     - [ankitwarbhe](/templates/ankitwarbhe.md)
     - [anmol098](/templates/anmol098.md)
+    - [anonfaded](/templates/anonfaded.md)
     - [anuraghazra](/templates/anuraghazra.md)
     - [AnushkaWijegoonawardana97](/templates/AnushkaWijegoonawardana97.md)
     - [ApoorvTyagi](/templates/ApoorvTyagi.md)
