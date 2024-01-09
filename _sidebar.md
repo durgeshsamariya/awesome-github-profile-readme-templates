@@ -348,6 +348,7 @@
     - [syedammar111](/templates/syedammar111.md)
     - [Sophie Nguyen](/templates/SophieNguyen113.md)
     - [shmjade](/templates/shmjade.md)
+    - [supuna97](/templates/supuna97.md)
   - T
     - [Taabannn](/templates/Taabannn.md)
     - [Tahanima](/templates/Tahanima.md)
