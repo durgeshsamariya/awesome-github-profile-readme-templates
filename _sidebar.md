@@ -141,6 +141,7 @@
     - [felippegh](/templates/felippegh.md)
     - [ferdiozer](/templates/ferdiozer.md)
     - [filiptronicek](/templates/filiptronicek.md)
+    - [francojimenezcopati](/templates/francojimenezcopati.md)
     - [furkandeveloper](/templates/furkandeveloper.md)
   - G
     - [gabrlcj](/templates/gabrlcj.md)
