@@ -10,3 +10,9 @@ A collection of GitHub profile README's examples.
 Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star: if you like this repo.
+
+------
+
+Credit: [FeryaelJustice](https://github.com/FeryaelJustice)
+
+Last Edited on: 11/01/2024
