@@ -55,6 +55,7 @@
     - [ApoorvTyagi](/templates/ApoorvTyagi.md)
     - [ApurvShah007](/templates/ApurvShah007.md)
     - [arjunMee](/templates/arjunMee.md)
+    - [arjunsingh27](/templates/arjunsingh27.md)
     - [Aryagm](/templates/Aryagm.md)
     - [aryasoni98](/templates/aryasoni98.md)
     - [ashbakernz](/templates/ashbakernz.md)
