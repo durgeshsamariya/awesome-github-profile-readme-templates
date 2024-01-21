@@ -178,6 +178,7 @@
     - [itsmeshibintmz](/templates/itsmeshibintmz.md)
     - [Iwi4a](/templates/Iwi4a.md)
   - J
+    - [jacquelineatae](/templates/jacquelineatae.md)
     - [Jaivardhan Bhola](/templates/jaivardhan-bhola.md)
     - [Jas-Script](/templates/Jas-Script.md)
     - [jatin2003](/templates/jatin2003.md)
