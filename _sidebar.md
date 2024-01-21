@@ -143,6 +143,7 @@
     - [ferdiozer](/templates/ferdiozer.md)
     - [FeryaelJustice](/templates/FeryaelJustice.md)
     - [filiptronicek](/templates/filiptronicek.md)
+    - [francojimenezcopati](/templates/francojimenezcopati.md)
     - [furkandeveloper](/templates/furkandeveloper.md)
   - G
     - [gabrlcj](/templates/gabrlcj.md)
