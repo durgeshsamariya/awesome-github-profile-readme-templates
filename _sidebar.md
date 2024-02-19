@@ -125,6 +125,7 @@
     - [dexprexxtion](/templates/dexprexxtion.md)
     - [DHANOLA](/templates/DHANOLA.md)
     - [dinhanhthi](/templates/dinhanhthi.md)
+    - [DinhKhai0201](/templates/DinhKhai0201.md)
     - [DiptoChakrabarty](/templates/DiptoChakrabarty.md)
     - [divyanshojha99](/templates/divyanshojha99.md)
     - [donPabloNow](/templates/donPabloNow.md)
