@@ -72,7 +72,7 @@
     - [azizovrafael](/templates/azizovrafael.md)
     - [al3sha9](/templates/al3sha9.md)
     - [Aneal07](/templates/Aneal07.md)
-
+    - [ashu-guo](/templates/ashu-guo.md)
   - B
     - [bindian0509](/templates/bindian0509)
     - [b4dcat404](/templates/b4dcat404.md)
