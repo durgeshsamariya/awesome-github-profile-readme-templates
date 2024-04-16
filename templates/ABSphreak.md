@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hola, compañeros <desarrolladores/>!
 </div>
 
 <div align="center" width="50">
@@ -10,18 +10,16 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+Has encontrado finalmente mi perfil de Github. <br>
+No dudes en clonar, plantear problemas y enviar PRs si crees que algo podría mejorar. <br>
+Pregúntame lo que quieras. <a href="https://github.com/CleimerAnt"><b>here</b></a><br>
+or <a href="mailto:cleimer2020@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
 </div>
 
 <div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 </br>
 </br>
