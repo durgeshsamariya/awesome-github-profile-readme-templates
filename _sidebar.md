@@ -105,6 +105,7 @@
     - [chiphuyen](/templates/chiphuyen.md)
     - [choubari](/templates/choubari.md)
     - [ChungZH](/templates/ChungZH.md)
+    - [codediaz](/templates/codediaz.md)
     - [coderjojo](/templates/coderjojo.md)
     - [CodeWhiteWeb](/templates/CodeWhiteWeb.md)
     - [coding-ai](/templates/coding-ai.md)
