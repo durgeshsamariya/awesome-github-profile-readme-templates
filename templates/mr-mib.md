@@ -28,16 +28,56 @@ Enjoy **Teaching** Others 🎓
 Always **Curious** and **Creative** 🧠
 
 <!-- LANGUAGE & TOOLS -->
-<div>
-
-| Language                                                  | Tools                                                        |
-| --------------------------------------------------------- | --------------------------------------------------------- |
-| [<img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/) |
-| [<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/) |
-| [<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/) |
-| [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/) |
-
-</div>
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://code.visualstudio.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://github.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://git-scm.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://www.python.org/">
+        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
+</table>
 
 <!-- QUOTE -->
 <p align="right">
@@ -48,4 +88,4 @@ Always **Curious** and **Creative** 🧠
 ------
 Credit: [mr-mib](https://github.com/mr-mib)
 
-Last Edited on: 29/05/2024
+Last Edited on: 01/06/2024
