@@ -132,6 +132,7 @@
     - [DiptoChakrabarty](/templates/DiptoChakrabarty.md)
     - [divyanshojha99](/templates/divyanshojha99.md)
     - [donPabloNow](/templates/donPabloNow.md)
+    - [Dum6o](/templates/Dum6o.md)
     - [durgeshsamariya](/templates/durgeshsamariya.md)
   - E
     - [ebrugulec](/templates/ebrugulec.md)
