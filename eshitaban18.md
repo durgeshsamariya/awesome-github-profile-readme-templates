@@ -84,5 +84,5 @@ Thanks to [this Github repo](https://github.com/durgeshsamariya/awesome-github-p
 
 
 --------------------------------------------------
-Credit: [username][https://github.com/eshitaban18]
+Credit: [eshitaban18][https://github.com/eshitaban18]
 Last Edited on: 09/06/2024
