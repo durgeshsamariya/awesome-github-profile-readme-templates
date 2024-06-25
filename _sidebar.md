@@ -226,6 +226,7 @@
     - [klee1611](/templates/klee1611.md)
     - [kmhmubin](/templates/kmhmubin.md)
     - [KunalRaghav](/templates/KunalRaghav.md)
+    - [krishnadev7](/templates/krishnadev7.md)
   - L
     - [LachlanDev](/templates/LachlanDev.md)
     - [lauragift21](/templates/lauragift21.md)
