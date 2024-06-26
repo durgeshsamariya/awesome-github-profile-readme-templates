@@ -170,6 +170,7 @@
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
     - [iamirulofficial](/templates/iamirulofficial.md)
+    - [id1945](/templates/id1945.md)
     - [IhChowdhury](/templates/IhChowdhury.md)
     - [imakash3011](/templates/imakash3011.md)
     - [imanmalekian31](/templates/imanmalekian31.md)
