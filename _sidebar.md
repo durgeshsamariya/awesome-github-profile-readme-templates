@@ -40,6 +40,7 @@
     - [akshitagupta15june](/templates/akshitagupta15june.md)
     - [AkuraDiary](/templates/AkuraDiary.md)
     - [Alamin2731](/templates/alamin2731.md)
+    - [Alamin-babu](/templates/alamin-babu.md)
     - [Aleksey-Voko](/templates/Aleksey-Voko.md)
     - [AlexMartinFR](/templates/AlexMartinFR.md)
     - [aliashfak178](/templates/aliashfak178.md)
