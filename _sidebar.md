@@ -44,6 +44,7 @@
     - [AlexMartinFR](/templates/AlexMartinFR.md)
     - [aliashfak178](/templates/aliashfak178.md)
     - [aman-atg](/templates/aman-atg.md)
+    - [amangupta143](/templates/amangupta143.md)
     - [amardeepkesharwani](/templates/amardeepkesharwani.md)
     - [amxchang](/templates/amxchang.md)
     - [AnderMendoza](https://github.com/andermendoza)
