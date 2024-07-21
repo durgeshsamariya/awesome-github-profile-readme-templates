@@ -145,9 +145,9 @@
     - [edgycoder](/templates/edgycoder.md)
     - [edisonlee55](/templates/edisonlee55.md)
     - [Elanza-48](/templates/Elanza-48.md)
+    - [ElioChiu](/templates/ElioChiu.md)
     - [EmmadiDivyaSrujana](/templates/EmmadiDivyaSrujana.md)
     - [emrahsariboz](/templates/emrahsariboz.md)
-    - [ElioChiu](/templates/ElioChiu.md)
     - [eshitaban18](/templates/eshitaban18.md)
   - F
     - [FahimFBA](/templates/FahimFBA.md)
