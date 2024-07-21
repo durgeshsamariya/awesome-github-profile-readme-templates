@@ -198,6 +198,7 @@
   - J
     - [jacquelineatae](/templates/jacquelineatae.md)
     - [Jaivardhan Bhola](/templates/jaivardhan-bhola.md)
+    - [jaiswal4sudeep](/templates/jaiswal4sudeep.md)
     - [Jas-Script](/templates/Jas-Script.md)
     - [jatin2003](/templates/jatin2003.md)
     - [jay078](/templates/jay078.md)
