@@ -7,7 +7,7 @@
     - [100rabhcsmc](/templates/100rabhcsmc.md)
     - [1010nishant](/templates/1010nishantx.md)
     - [1999azzar](/templates/1999azzar.md)
-    - [10Kartik](/templates/10Kartik.md)
+    - [10kartik](/templates/10kartik.md)
   - 2
   - 3
   - 4
