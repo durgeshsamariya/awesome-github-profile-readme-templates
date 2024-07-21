@@ -50,7 +50,7 @@
     - [amangupta143](/templates/amangupta143.md)
     - [amardeepkesharwani](/templates/amardeepkesharwani.md)
     - [amxchang](/templates/amxchang.md)
-    - [AnderMendoza](https://github.com/andermendoza)
+    - [AnderMendoza](/templates/AnderMendoza.md)
     - [andyruwruw](/templates/andyruwruw.md)
     - [AnhellO](/templates/AnhellO.md)
     - [ANii693](/templates/ANii693.md)
