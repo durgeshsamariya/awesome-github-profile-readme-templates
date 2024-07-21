@@ -264,7 +264,7 @@
     - [Mogakamo](/templates/Mogakamo.md)
     - [monkindey](/templates/monkindey.md)
     - [mostlypanda](/templates/mostlypanda.md)
-    - [mrabro](https://github.com/mrabro)
+    - [mrabro](/templates/mrabro.md)
     - [Mr-maike](/templates/Mr-maike.md)
     - [MrBlueBird2](/templates/MrBlueBird2.md)
     - [MrStanDu33](/templates/MrStanDu33.md)
