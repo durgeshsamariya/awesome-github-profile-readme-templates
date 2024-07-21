@@ -436,7 +436,7 @@
     - [YasinAlhadi](/templates/YasinAlhadi.md)
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
-    - [zeeid](https://github.com/zeeid)
+    - [zeeid](/templates/zeeid.md)
     - [zillastar](/templates/zillastar.md)
     - [zjayers](/templates/zjayers.md)
     - [zmcx16](/templates/zmcx16.md)
