@@ -196,7 +196,6 @@
     - [Iwi4a](/templates/Iwi4a.md)
     - [iscpatricio92](/templates/iscpatricio92.md)
   - J
-    - [jacquelineatae](/templates/jacquelineatae.md)
     - [Jaivardhan Bhola](/templates/jaivardhan-bhola.md)
     - [Jas-Script](/templates/Jas-Script.md)
     - [jatin2003](/templates/jatin2003.md)
@@ -235,12 +234,10 @@
     - [LachlanDev](/templates/LachlanDev.md)
     - [lauragift21](/templates/lauragift21.md)
     - [LeandraOliveiraS](/templates/LeandraOliveiraS.md)
-    - [LexxFade](/templates/LexxFade.md)
     - [lia0wang](/templates/lia0wang.md)
     - [linitio](/templates/linitio.md)
     - [lostgirljourney](/templates/lostgirljourney.md)
   - M
-
     - [M0nica](/templates/M0nica.md)
     - [MaartenGr](/templates/MaartenGr.md)
     - [mahiiverse1](/templates/mahiiverse1.md)
@@ -282,7 +279,6 @@
     - [NavodyaPasqual](/templates/NavodyaPasqual.md)
     - [Niefee](/templates/Niefee.md)
     - [Niko-Cloud](/templates/Niko-Cloud.md)
-    - [Nishant1500](/templates/Nishant1500.md)
     - [Nishant1500](/templates/Nishant1500.md)
     - [nitindahiya199](/templates/nitindahiya199.md)
     - [Nneji123](/templates/Nneji123.md)
