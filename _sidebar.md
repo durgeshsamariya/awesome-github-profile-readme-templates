@@ -23,7 +23,7 @@
     - [aastha12](/templates/aastha12.md)
     - [aayushi-droid](/templates/aayushi-droid.md)
     - [abdoachhoubi](/templates/abdoachhoubi.md)
-    - [abhigyantrips](/templates/abhigyantrips.md)
+    - [abhigyantrips](/templates/AbhigyanTrips.md)
     - [abhinavdubeyad9](/templates/abhinavdubeyad9.md)
     - [abhisheknaiidu](/templates/abhisheknaiidu.md)
     - [ABSphreak](/templates/ABSphreak.md)
