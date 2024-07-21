@@ -59,7 +59,7 @@
     - [AnushkaWijegoonawardana97](/templates/AnushkaWijegoonawardana97.md)
     - [ApoorvTyagi](/templates/ApoorvTyagi.md)
     - [ApurvShah007](/templates/ApurvShah007.md)
-    - [arshadakl](https://github.com/arshadakl)
+    - [arshadakl](/templates/arshadakl.md)
     - [arjunMee](/templates/arjunMee.md)
     - [arjunsingh27](/templates/arjunsingh27.md)
     - [Aryagm](/templates/Aryagm.md)
