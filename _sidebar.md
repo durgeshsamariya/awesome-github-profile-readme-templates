@@ -7,7 +7,7 @@
     - [100rabhcsmc](/templates/100rabhcsmc.md)
     - [1010nishant](/templates/1010nishantx.md)
     - [1999azzar](/templates/1999azzar.md)
-    - [10Kartik](/templates/10Kartik.md)
+    - [10kartik](/templates/10kartik.md)
   - 2
   - 3
   - 4
@@ -24,6 +24,8 @@
     - [aayushi-droid](/templates/aayushi-droid.md)
     - [abdoachhoubi](/templates/abdoachhoubi.md)
     - [abhigyantrips](/templates/AbhigyanTrips.md)
+    - [abdoachhoubi](/templates/AbdoAchhoubi.md)
+    - [abhigyantrips](/templates/abhigyantrips.md)
     - [abhinavdubeyad9](/templates/abhinavdubeyad9.md)
     - [abhisheknaiidu](/templates/abhisheknaiidu.md)
     - [ABSphreak](/templates/ABSphreak.md)
