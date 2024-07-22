@@ -103,10 +103,10 @@
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
+    - [Caner-Yesiltas](/templates/Caner-Yesiltas.md)
     - [cdthomp1](/templates/cdthomp1.md)
     - [chaitanya-pratap-singh](/templates/chaitanya-pratap-singh.md)
     - [chakravarthi-v](/templates/chakravarthi-v.md)
-    - [Caner-Yesiltas](templates/Caner-Yesiltas.md)
     - [chinmay29hub](/templates/chinmay29hub.md)
     - [chiphuyen](/templates/chiphuyen.md)
     - [choubari](/templates/choubari.md)
