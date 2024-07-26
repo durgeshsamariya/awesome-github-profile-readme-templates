@@ -96,6 +96,7 @@
     - [blueset](/templates/blueset.md)
     - [bornmay](/templates/bornmay.md)
     - [Bouaskaoun](/templates/Bouaskaoun.md)
+    - [Brandon-E-Ramirez](/templates/Brandon-E-Ramirez.md)
     - [BrantLauro](/templates/BrantLauro.md)
     - [BRdhanani](/templates/BRdhanani.md)
     - [bugahontas](/templates/bugahontas.md)
