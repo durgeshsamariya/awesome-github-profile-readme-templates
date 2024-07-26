@@ -120,6 +120,7 @@
   - D
     - [Daenges](/templates/Daenges.md)
     - [danieldanielecki](/templates/danieldanielecki.md)
+    - [dante-barreda](/templates/dante-barreda.md)
     - [dart-coder](/templates/dart-coder.md)
     - [DataOnATangent](/templates/DataOnATangent.md)
     - [Davekibh](/templates/Davekibh.md)
