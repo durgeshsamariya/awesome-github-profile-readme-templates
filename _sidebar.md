@@ -351,6 +351,7 @@
     - [shamimsikder](/templates/shamimsikder.md)
     - [shaan71845](/templates/shaan71845.md)
     - [sharannyobasu](/templates/sharannyobasu.md)
+    - [sharif-islam96403](/templates/sharif-islam96403.md)
     - [shaurya-src](/templates/shaurya-src.md)
     - [Shourya742](/templates/Shourya742.md)
     - [shravanatirtha](/templates/shravanatirtha.md)
