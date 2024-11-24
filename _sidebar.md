@@ -181,6 +181,7 @@
     - [hungpham3112](/templates/hungpham3112.md)
     - [huiishan99](/templates/huiishan99.md)
     - [HsiangNianian](/templates/HsiangNianian.md)
+    - [HimanshuJain112](/templates/himanshujain112.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
