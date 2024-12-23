@@ -134,6 +134,7 @@
     - [devboyarif](/templates/devboyarif.md)
     - [devSouvik](/templates/devSouvik.md)
     - [dexprexxtion](/templates/dexprexxtion.md)
+    - [dgonzalez-ops](/templates/dgonzalez-ops.md)
     - [DHANOLA](/templates/DHANOLA.md)
     - [dinhanhthi](/templates/dinhanhthi.md)
     - [DinhKhai0201](/templates/DinhKhai0201.md)
