@@ -18,7 +18,7 @@
   - 8
   - 9
   - A
-
+    - [AyushKatre05](/templates/AyushKatre05.md)
     - [aaditkamat](/templates/aaditkamat.md)
     - [aastha12](/templates/aastha12.md)
     - [aayushi-droid](/templates/aayushi-droid.md)
