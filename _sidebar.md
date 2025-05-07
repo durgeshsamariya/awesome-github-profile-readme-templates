@@ -152,6 +152,7 @@
     - [EmmadiDivyaSrujana](/templates/EmmadiDivyaSrujana.md)
     - [emrahsariboz](/templates/emrahsariboz.md)
     - [eshitaban18](/templates/eshitaban18.md)
+    - [eyyMinda](/templates/eyyMinda.md)
   - F
     - [FahimFBA](/templates/FahimFBA.md)
     - [federicocomoglio](/templates/federicocomoglio.md)
