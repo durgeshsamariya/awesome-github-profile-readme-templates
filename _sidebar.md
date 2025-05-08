@@ -266,6 +266,7 @@
     - [maximousblk](/templates/maximousblk.md)
     - [mazarafa](/templates/mazarafa.md)
     - [mdeboute](/templates/mdeboute.md)
+    - [MedinaPedroDev](/templates/MedinaPedroDev.md)
     - [MikeOwino](/templates/MikeOwino.md)
     - [mmphego](/templates/mmphego.md)
     - [Mogakamo](/templates/Mogakamo.md)
