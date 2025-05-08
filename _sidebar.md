@@ -284,6 +284,7 @@
     - [mr-mib](/templates/mr-mib.md)
   - N
     - [naisofly](/templates/naisofly.md)
+    - [Namnika](/templates/Namnika.md)
     - [nasreekar](/templates/nasreekar.md)
     - [NavodyaPasqual](/templates/NavodyaPasqual.md)
     - [neerajhariyale](/templates/neerajhariyale.md)
