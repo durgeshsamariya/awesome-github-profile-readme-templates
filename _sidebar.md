@@ -236,6 +236,7 @@
     - [Kiran1689](/templates/Kiran1689.md)
     - [klee1611](/templates/klee1611.md)
     - [kmhmubin](/templates/kmhmubin.md)
+    - [kOaDT](/templates/kOaDT.md)
     - [KunalRaghav](/templates/KunalRaghav.md)
     - [krishnadev7](/templates/krishnadev7.md)
   - L
