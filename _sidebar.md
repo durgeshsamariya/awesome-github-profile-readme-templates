@@ -4,6 +4,7 @@
     - [0ssinsight](/templates/0ssinsight-widget.md)
     - [0xabdulkhalid](/templates/0xabdulkhalid.md)
   - 1
+    - [elverdavid-dev](/templates/elverdavid-dev.md)
     - [100rabhcsmc](/templates/100rabhcsmc.md)
     - [1010nishant](/templates/1010nishant.md)
     - [1999azzar](/templates/1999azzar.md)
