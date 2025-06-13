@@ -103,6 +103,7 @@
     - [bugahontas](/templates/bugahontas.md)
     - [brightkut](/templates/brightkut.md)
     - [beyzaerf](/templates/beyzaerf.md)
+    - [BryanEscobar638](/templates/BryanEscobar638.md)
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
