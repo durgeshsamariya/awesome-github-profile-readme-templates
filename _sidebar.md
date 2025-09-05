@@ -353,6 +353,7 @@
     - [sanskarsahu](/templates/DSmark.md)
     - [Sarath-PM](/templates/sarath-pm.md)
     - [sauravchamoli17](/templates/sauravchamoli17.md)
+    - [Saviru](/templates/Saviru.md)
     - [SayantaniDeb](/templates/SayantaniDeb.md)
     - [sebaF96](/templates/sebaF96.md)
     - [shamimsikder](/templates/shamimsikder.md)
