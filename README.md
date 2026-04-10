@@ -10,3 +10,4 @@ A collection of GitHub profile README's examples.
 Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star: if you like this repo.
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=durgeshsamariya_awesome-github-profile-readme-templates) - Follow developers on GitHub and get a feed of what they star and build.
