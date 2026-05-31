@@ -36,6 +36,7 @@
     - [Adam-pw](/templates/Adam-pw.md)
     - [adamalston](/templates/adamalston.md)
     - [Aditya664](/templates/Aditya664.md)
+    - [adrijshikhar](/templates/adrijshikhar.md)
     - [afc163](/templates/afc163.md)
     - [Ahmad-shaikh575](/templates/Ahmad-shaikh575.md)
     - [Ahmed Fathy](/templates/AhmedFathyDev.md)
