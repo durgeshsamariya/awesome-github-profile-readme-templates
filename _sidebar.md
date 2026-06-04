@@ -359,6 +359,7 @@
     - [ruthrootz](/templates/ruthrootz.md)
     - [RResabala2015](/templates/RResabala2015.md)
   - S
+    - [StaryMoon](/templates/StaryMoon.md)
     - [Sabihashaik](/templates/Sabihashaik.md)
     - [sahil2128](/templates/sahil2128.md)
     - [sajidul-kabir](/templates/sajidul-kabir.md)
