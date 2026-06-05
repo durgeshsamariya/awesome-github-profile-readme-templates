@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner Amanecer" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/SzntiDev/SzntiDev/blob/main/banner.gif" alt="Banner Amanecer" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
 </p>
  
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">¡Hola! Soy Santiago Pérez <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35" style="vertical-align: middle;"> </h1>
@@ -23,7 +23,7 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
 </p>
 
 <br>
-<p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
+<p align="center"> <img src="https://github.com/SzntiDev/SzntiDev/blob/main/barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 <h2 align="center">🛠️ Stack de Tecnologías</h2>
 
 <h4 align="center">Lenguajes</h4>
@@ -53,12 +53,8 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
   <a href="https://confluence.atlassian.com/jirasoftware" target="_blank"><img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira"></a>
   <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity">
 </p>
-<p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
+<p align="center"> <img src="https://github.com/SzntiDev/SzntiDev/blob/main/barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SzntiDev&show_icons=true&theme=tokyonight&border_radius=15&title_color=F7C843&icon_color=E0A800&text_color=FCE38A&bg_color=0D1117" height="180"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mate.gif" height="180" style="border-radius: 12px;"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SzntiDev&show_icons=true&theme=tokyonight&border_radius=15&title_color=F7C843&icon_color=E0A800&text_color=FCE38A&bg_color=0D1117" height="180"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SzntiDev/SzntiDev/blob/main/mate.gif" height="180" style="border-radius: 12px;"/>
 </div>
-
-------
-Credit: [SzntiDev](https://github.com/SzntiDev)
-Last Edited on: 05/06/2026
