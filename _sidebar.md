@@ -408,6 +408,7 @@
     - [shmjade](/templates/shmjade.md)
     - [supuna97](/templates/supuna97.md)
     - [supravatm](/templates/supravatm.md)
+    - [SzntiDev](/templates/SzntiDev.md)
   - T
     - [Taabannn](/templates/Taabannn.md)
     - [Tahanima](/templates/Tahanima.md)
