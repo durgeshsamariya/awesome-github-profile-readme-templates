@@ -342,6 +342,7 @@
     - [pivettamarcos](/templates/pivettamarcos.md)
   - Q
   - R
+    - [RafaellFlorindo](/templates/RafaellFlorindo.md)
     - [rafnixg](/templates/rafnixg.md)
     - [rahulkarda](/templates/rahulkarda.md)
     - [RahulMahesh62](/templates/RahulMahesh62.md)
