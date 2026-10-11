@@ -451,6 +451,7 @@
     - [WarenGonzaga](/templates/WarenGonzaga.md)
     - [WaylonWalker](/templates/WaylonWalker.md)
     - [weltonfelix](/templates/weltonfelix.md)
+    - [widechaos](/templates/widechaos.md)
     - [windard](/templates/windard.md)
     - [wyattowalsh](/templates/wyattowalsh.md)
   - X
