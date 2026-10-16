@@ -394,6 +394,7 @@
     - [SrishtiSinghD](/templates/SrishtiSinghD.md)
     - [stephenajulu](/templates/stephenajulu.md)
     - [stkeky](/templates/stkeky.md)
+    - [ststyin](/templates/ststyin.md)
     - [SubhadeepZilong](/templates/SubhadeepZilong.md)
     - [sudip-mondal-2002](/templates/sudip-mondal-2002.md)
     - [sudiptog81](/templates/sudiptog81.md)
