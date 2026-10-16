@@ -93,14 +93,14 @@ $ git log --stat --author=sanskarjaiswal2001
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d0d12&text_color=b8b8cc&icon_color=f5a623&title_color=f5a623" height="150"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sanskarjaiswal2001&hide_border=true&background=0d0d12&stroke=1a1a24&ring=f5a623&fire=f5a623&currStreakLabel=f5a623&sideLabels=b8b8cc&dates=6d6d8a&currStreakNum=f5f5f5&sideNums=f5f5f5" height="150"/>
+  <img src="./profile/stats.svg" alt="GitHub stats" height="150"/>
+  <img src="./profile/streak.svg" alt="GitHub streak" height="150"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanskarjaiswal2001/sanskarjaiswal2001/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/sanskarjaiswal2001/sanskarjaiswal2001/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanskarjaiswal2001/sanskarjaiswal2001/main/profile/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/sanskarjaiswal2001/sanskarjaiswal2001/main/profile/github-snake.svg" alt="contribution snake" width="100%"/>
   </picture>
 </p>
 
