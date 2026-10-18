@@ -224,6 +224,7 @@
     - [jeffdevx](/templates/jeffdevx.md)
     - [JessicaLim8](/templates/JessicaLim8.md)
     - [jewdev](/templates/jewdev.md)
+    - [jjoaovitor7](/templates/jjoaovitor7.md)
     - [jlengstorf](/templates/jlengstorf.md)
     - [joetancy](/templates/joetancy.md)
     - [JonasBlx](/templates/JonasBlx.md)
